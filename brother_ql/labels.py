@@ -96,6 +96,7 @@ ALL_LABELS = (
   Label("29x90",  ( 29,  90), FormFactor.DIE_CUT,       ( 342, 1061), ( 306,  991),   6 ),
   Label("39x90",  ( 38,  90), FormFactor.DIE_CUT,       ( 449, 1061), ( 413,  991),  12 ),
   Label("39x48",  ( 39,  48), FormFactor.DIE_CUT,       ( 461,  565), ( 425,  495),   6 ),
+  Label("950x720",  ( 50, 0), FormFactor.DIE_CUT,       ( 950,  720), ( 950,  720),   0 ),
   Label("52x29",  ( 52,  29), FormFactor.DIE_CUT,       ( 614,  341), ( 578,  271),   0 ),
   Label("62x29",  ( 62,  29), FormFactor.DIE_CUT,       ( 732,  341), ( 696,  271),  12 ),
   Label("62x100", ( 62, 100), FormFactor.DIE_CUT,       ( 732, 1179), ( 696, 1109),  12 ),
