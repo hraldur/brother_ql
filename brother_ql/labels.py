@@ -85,7 +85,7 @@ ALL_LABELS = (
   Label("29",     ( 29,   0), FormFactor.ENDLESS,       ( 342,    0), ( 306,    0),   6 , feed_margin=35),
   Label("38",     ( 38,   0), FormFactor.ENDLESS,       ( 449,    0), ( 413,    0),  12 , feed_margin=35),
   Label("50",     ( 50,   0), FormFactor.ENDLESS,       ( 590,    0), ( 554,    0),  12 , feed_margin=35),
-  Label("600x720",( 50,   0), FormFactor.ENDLESS,       ( 720,    0), ( 600,    0),   0 , feed_margin=0),
+  Label("600x720",( 50,   0), FormFactor.ENDLESS,       ( 640,    0), ( 620,    0),   0 , feed_margin=0),
   Label("54",     ( 54,   0), FormFactor.ENDLESS,       ( 636,    0), ( 590,    0),   0 , feed_margin=35),
   Label("62",     ( 62,   0), FormFactor.ENDLESS,       ( 732,    0), ( 696,    0),  12 , feed_margin=35),
   Label("62red",  ( 62,   0), FormFactor.ENDLESS,       ( 732,    0), ( 696,    0),  12 , feed_margin=35, color=Color.BLACK_RED_WHITE),
